@@ -1,0 +1,2 @@
+﻿AIUtil("profile").Click
+
