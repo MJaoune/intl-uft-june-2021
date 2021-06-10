@@ -1,4 +1,4 @@
-﻿AIUtil.SetContext Browser("creationtime:=1").Maximize
+﻿AIUtil.SetContext Browser("creationtime:=1")
 Wait 3
 AIUtil("profile").Click
 AIUtil("input", "Username").Type "Mercury"
